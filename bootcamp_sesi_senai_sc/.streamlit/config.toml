@@ -1,0 +1,10 @@
+[server]
+port = 8501
+headless = true
+
+[global]
+enableCORS = false
+enableXsrfProtection = false
+
+[runner]
+pythonVersion = "3.12" 
